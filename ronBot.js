@@ -50,4 +50,4 @@ if (message.content.includes('BTS')) {
 
 })
 
-client.login('Nzg5MzEwNDE3MTEyNzkzMDg4.X9wMnA.VHklwg9fYUderSpTTHHosHGEHEQ')
+client.login('TOKEN')
