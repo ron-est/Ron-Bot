@@ -50,4 +50,4 @@ if (message.content.includes('BTS')) {
 
 })
 
-client.login('TOKEN')
+client.login(`${{secret.TOKEN}}`)
